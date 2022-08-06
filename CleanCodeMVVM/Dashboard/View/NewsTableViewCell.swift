@@ -10,6 +10,7 @@ import Kingfisher
 
 final class NewsTableViewCell: UITableViewCell {
     
+    // MARK: IBOutlets
     @IBOutlet private weak var titleLabel: UILabel!
     @IBOutlet private weak var subTitleLabel: UILabel!
     @IBOutlet private weak var authorLabel: UILabel!

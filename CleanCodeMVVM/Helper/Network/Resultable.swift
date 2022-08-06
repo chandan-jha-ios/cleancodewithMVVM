@@ -44,7 +44,6 @@ extension Resultable {
         do {
             let model = try JSONDecoder().decode(T.self, from: responseData)
             return model.result()
-            
         } catch {
             return .failure(NetworkError(statusCode: nil,
                                          description: "\(T.self) \(ErrorKeys.parsingFailed.rawValue)"))

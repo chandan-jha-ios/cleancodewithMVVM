@@ -19,7 +19,9 @@ class JSONParser {
     func load() throws -> Data {
         guard let path = Bundle(for: type(of: self)).path(forResource: fileName,
                                                           ofType: "json") else {
-            fatalError("\(fileName).json \(ErrorKeys.fileNotFound)")
+            throw NetworkError(statusCode: nil,
+                               description: "\(fileName).json \(ErrorKeys.fileNotFound)")
+
         }
 
         do {

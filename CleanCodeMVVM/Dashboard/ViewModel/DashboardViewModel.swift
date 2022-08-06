@@ -7,17 +7,19 @@
 
 import Foundation
 import Combine
-import UIKit
 
 /** All the business functionality of dashboard feature is implemented here
  - Parameters:
     - manager: manager is the DashboardManagerFetchable protocol help to request all the network call
+    - router: router will do the view navigation operations
+    - isLoading: to track the network requests status
  */
+
 final class DashboardViewModel {
     
     // MARK: Properties
     private let manager: DashboardManagerFetchable
-    private var router: Router?
+    private var router: Route?
     @Published var isLoading: Bool
     var response: DashboardResponse?
     var error: NetworkError?
@@ -28,7 +30,7 @@ final class DashboardViewModel {
     
     // MARK: Initializer
     init(manager: DashboardManagerFetchable = DashboardManager(),
-         router: Router = DashboardRouter(),
+         router: Route? = nil,
          isLoading: Bool = false) {
         self.manager = manager
         self.router = router
@@ -36,9 +38,8 @@ final class DashboardViewModel {
     }
 
     // MARK: Functions
-    func fetchNews(completion: Completion? = nil) {
-        let newsService = DashboardService.news
-        manager.fetchNews(request: newsService) { [weak self] (response, error) in
+    func fetchNews(service: Requestable = DashboardService.news, completion: Completion? = nil) {
+        manager.fetchNews(request: service) { [weak self] (response, error) in
             /// To track network operation and show loader in view
             if let error = error {
                 self?.error = error
@@ -59,7 +60,7 @@ final class DashboardViewModel {
 extension DashboardViewModel {
     
     /// Show news details page
-    func navigatetoDetails(from: UIViewController, parameters: Any? = nil) {
-        router?.route(to: "details", from: from, parameters: parameters)
+    func navigatetoDetails(for index: Int) {
+        router?.route(to: "details", parameters: news(at: index))
     }
 }

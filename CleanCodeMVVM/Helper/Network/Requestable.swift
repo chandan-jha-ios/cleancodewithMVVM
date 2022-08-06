@@ -37,10 +37,6 @@ extension Requestable {
         Constant.baseUrl
     }
     
-    var version: Version {
-        .v1
-    }
-    
     var headers: [String : String] {
         [:]
     }

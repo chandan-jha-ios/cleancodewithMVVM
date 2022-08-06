@@ -10,9 +10,11 @@ import Foundation
 
 struct MockNetworkManager<T: Resultable>: NetworkAdaptor {
     var parser: JSONParser
+    var isMock: Bool
     
-    init(parser: JSONParser ) {
+    init(parser: JSONParser, isMock: Bool = true) {
         self.parser = parser
+        self.isMock = isMock
     }
     
     func process<T: Resultable>(urlRequest: URLRequest,
@@ -20,7 +22,7 @@ struct MockNetworkManager<T: Resultable>: NetworkAdaptor {
                     completion: @escaping (NetworkResult<T>) -> Void) {
         do {
             let data = try parser.load()
-            let result = T.result(responseData: data, isMock: true) as NetworkResult<T>
+            let result = T.result(responseData: data, isMock: isMock) as NetworkResult<T>
             switch result {
             case let .success(model):
                 completion(.success(model))

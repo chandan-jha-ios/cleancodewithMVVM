@@ -32,7 +32,7 @@ struct DashboardRepository: DashboardRepositoryFetchable {
                 }
             }
         } catch {
-            completion(nil, NetworkError(statusCode: nil, description: "Url parsing failed"))
+            completion(nil, NetworkError(statusCode: nil, description: ErrorKeys.parsingFailed.rawValue))
         }
     }    
 }

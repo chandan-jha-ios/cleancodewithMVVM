@@ -22,6 +22,6 @@ struct News: Codable {
 extension News {
     
     var thumbnail: String {
-        media?.first?.meta?.first?.url ?? ""
+        media?.first?.thumbnail ?? ""
     }
 }

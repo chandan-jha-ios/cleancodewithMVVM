@@ -1,23 +1,26 @@
 //
-//  DashboardService.swift
-//  CleanCodeMVVM
+//  MockService.swift
+//  CleanCodeMVVMTests
 //
-//  Created by Chandan Jha on 05/08/22.
+//  Created by Chandan Jha on 06/08/22.
 //
 
-import Foundation
 import Alamofire
+@testable import CleanCodeMVVM
 
-/** DashboardService will be used to request different network call. Currently only news is supported */
-enum DashboardService: Requestable {
+enum MockService: Requestable {
     case news
 
     var method: RequestMethod {
-        .GET
+        .POST
     }
     
     var encoding: URLEncoding {
         .default
+    }
+    
+    var server: String? {
+        nil
     }
     
     var params: [String : Any]? {
@@ -29,11 +32,10 @@ enum DashboardService: Requestable {
     }
     
     var endPoints: String? {
-        "mostviewed/all-sections/7.json?api-key=\(Constant.apiKey)"
+        "mostviewed/all-sections/7.json?api-key=2GXNO7VVpf3m0lwXt0QVNfJQNYHI41jF"
     }
     
     var version: Version {
         .v2
     }
-
 }

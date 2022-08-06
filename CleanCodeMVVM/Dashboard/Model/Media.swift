@@ -20,3 +20,20 @@ struct Media: Codable {
         case meta = "media-metadata"
     }
 }
+
+extension Media {
+    
+    var thumbnail: String {
+        meta?.first?.url ?? ""
+    }
+    
+    var gridIcon: String {
+        guard let meta = meta,
+              meta.count > 1 else { return ""}
+        return meta[1].url ?? ""
+    }
+    
+    var banner: String {
+        meta?.last?.url ?? ""
+    }
+}

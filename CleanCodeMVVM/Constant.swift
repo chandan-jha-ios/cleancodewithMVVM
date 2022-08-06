@@ -11,8 +11,10 @@ struct Constant {
     static var baseUrl: String {
         "https://api.nytimes.com"
     }
+    static var apiKey: String {
+        "# update key here"
+    }
 }
-
 
 enum AppColor {
     case theme

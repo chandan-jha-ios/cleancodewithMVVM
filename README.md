@@ -12,9 +12,9 @@ _Below is an example of how you can access and run this MVVM demo project_
    ```
    pod install
    ```
-4. Enter your API in `Constant.swift`
+4. Enter your apiKey in `Constant.swift`
    ```
-   const apiKey = 'ENTER YOUR API';
+   const apiKey = 'ENTER YOUR KEY';
    ```
 ### MVVM 
 This project is developed in MVVM architecture with Router and Repository pattern

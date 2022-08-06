@@ -1,0 +1,1311 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/c2e1206a-a95e-57d2-97e1-68ceb20b25c9",
+      "url": "https://www.nytimes.com/2022/07/29/us/megamillions-jackpot.html",
+      "id": 100000008466058,
+      "asset_id": 100000008466058,
+      "source": "New York Times",
+      "published_date": "2022-07-29",
+      "updated": "2022-07-30 16:44:33",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Lotteries;Frauds and Swindling;Kurland, Jason M",
+      "column": null,
+      "byline": "By Christine Hauser",
+      "type": "Article",
+      "title": "Single Mega Millions Ticket Wins $1.34 Billion as Jackpot Grows",
+      "abstract": "The total rose again Saturday, but it was not yet known who bought the $2 ticket in Illinois that matched all five winning numbers and the Mega Ball — 67, 45, 57, 36, 13 and 14.",
+      "des_facet": [
+        "Lotteries",
+        "Frauds and Swindling"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Kurland, Jason M"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mega Millions lottery ticket at a 7-Eleven convenience store in Chino Hills, Calif., on Thursday.",
+          "copyright": "Ringo Chiu/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/29/multimedia/29xp-megamillions-02/29xp-megamillions-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/29/multimedia/29xp-megamillions-02/29xp-megamillions-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/29/multimedia/29xp-megamillions-02/29xp-megamillions-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4764678e-e055-585f-8e49-62f522a2437a",
+      "url": "https://www.nytimes.com/2022/07/30/us/apple-river-wisconsin-stabbing.html",
+      "id": 100000008467681,
+      "asset_id": 100000008467681,
+      "source": "New York Times",
+      "published_date": "2022-07-30",
+      "updated": "2022-08-02 03:34:31",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rivers;Murders, Attempted Murders and Homicides;Miu, Nicolae;Wisconsin",
+      "column": null,
+      "byline": "By Vimal Patel",
+      "type": "Article",
+      "title": "A 17-Year-Old Is Killed and 4 Are Hospitalized in River Tubing Stabbing",
+      "abstract": "The suspect, a 52-year-old man from Minnesota, had left the scene but was taken into custody after a witness identified him, the authorities said. A motive was not immediately clear.",
+      "des_facet": [
+        "Rivers",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Miu, Nicolae"
+      ],
+      "geo_facet": [
+        "Wisconsin"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities searched the area near the Apple River with metal detectors after five people were stabbed while tubing down the river on Saturday.",
+          "copyright": "Alex Kormann/Star Tribune, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30xp-rivwe-stabbing/30xp-rivwe-stabbing-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30xp-rivwe-stabbing/merlin_210842628_dd8893ab-2c46-4541-9e09-ea9c31696dbb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30xp-rivwe-stabbing/merlin_210842628_dd8893ab-2c46-4541-9e09-ea9c31696dbb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6ff02b50-f836-5e4c-9544-ed0af7c4fcb2",
+      "url": "https://www.nytimes.com/2022/07/27/technology/personaltech/default-settings-turn-off.html",
+      "id": 100000008460883,
+      "asset_id": 100000008460883,
+      "source": "New York Times",
+      "published_date": "2022-07-27",
+      "updated": "2022-07-30 11:41:15",
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "nytdsection": "technology",
+      "adx_keywords": "Data-Mining and Database Marketing;Computers and the Internet;Mobile Applications;Privacy;Smartphones;Speakers (Audio);iPhone;Android (Operating System);Content Type: Service;Amazon.com Inc;Apple Inc;Facebook Inc;Google Inc;Meta Platforms Inc;Microsoft Corp",
+      "column": null,
+      "byline": "By Brian X. Chen",
+      "type": "Article",
+      "title": "The Default Tech Settings You Should Turn Off Right Away",
+      "abstract": "These controls, which are buried inside products from Apple, Google, Meta and others, make us share more data than we need to.",
+      "des_facet": [
+        "Data-Mining and Database Marketing",
+        "Computers and the Internet",
+        "Mobile Applications",
+        "Privacy",
+        "Smartphones",
+        "Speakers (Audio)",
+        "iPhone",
+        "Android (Operating System)",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "Amazon.com Inc",
+        "Apple Inc",
+        "Facebook Inc",
+        "Google Inc",
+        "Meta Platforms Inc",
+        "Microsoft Corp"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Glenn Harvey",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/business/21Techfix-illo/21Techfix-illo-thumbStandard.gif",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/business/21Techfix-illo/21Techfix-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/business/21Techfix-illo/21Techfix-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2feab6a3-d9aa-54af-9407-5f865aa396ff",
+      "url": "https://www.nytimes.com/2022/07/27/opinion/archie-bunker-donald-trump-norman-lear.html",
+      "id": 100000008460567,
+      "asset_id": 100000008460567,
+      "source": "New York Times",
+      "published_date": "2022-07-27",
+      "updated": "2022-07-27 13:32:54",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);United States Politics and Government;Politics and Government;Democracy (Theory and Philosophy);Elderly;Conservatism (US Politics);Age, Chronological",
+      "column": null,
+      "byline": "By Norman Lear",
+      "type": "Article",
+      "title": "On My 100th Birthday, Reflections on Archie Bunker and Donald Trump",
+      "abstract": "The Emmy-winning TV producer Norman Lear considers his first century and his hopes for the next century.",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government",
+        "Politics and Government",
+        "Democracy (Theory and Philosophy)",
+        "Elderly",
+        "Conservatism (US Politics)",
+        "Age, Chronological"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carroll O’Connor, who played Archie Bunker, in 1971.",
+          "copyright": "CBS, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/opinion/27Lear--02/27Lear--02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/opinion/27Lear--02/27Lear--02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/opinion/27Lear--02/27Lear--02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b0c2055-f07c-5f0e-9f6c-ed0a8fd329f0",
+      "url": "https://www.nytimes.com/2022/07/27/health/deadly-bacteria-us-soil-water.html",
+      "id": 100000008463381,
+      "asset_id": 100000008463381,
+      "source": "New York Times",
+      "published_date": "2022-07-27",
+      "updated": "2022-07-27 21:39:25",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Bacteria;Coccidioidomycosis (Valley Fever);Centers for Disease Control and Prevention;Far East, South and Southeast Asia and Pacific Areas;Gulf Coast (US);Mississippi;United States",
+      "column": null,
+      "byline": "By McKenna Oxenden",
+      "type": "Article",
+      "title": "Potentially Deadly Bacteria Detected in U.S. Soil for First Time",
+      "abstract": "The bacteria, Burkholderia pseudomallei, was found along the Gulf Coast region of Southern Mississippi. Previously, it had been detected in parts of Asia and Australia.",
+      "des_facet": [
+        "Bacteria",
+        "Coccidioidomycosis (Valley Fever)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "Gulf Coast (US)",
+        "Mississippi",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Burkholderia pseudomallei bacteria, which can cause melioidosis, a rare and sometimes deadly disease long thought to be confined to tropical climates.",
+          "copyright": "Dr. Todd Parker/U.S. Centers for Disease Control and Prevention, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/multimedia/27xp-bacteria-1/27xp-bacteria-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/multimedia/27xp-bacteria-1/27xp-bacteria-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/multimedia/27xp-bacteria-1/27xp-bacteria-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a34bed81-9e37-51c7-9f33-c2ae4fc60ff4",
+      "url": "https://www.nytimes.com/2022/07/27/us/politics/manchin-climate-tax-bill.html",
+      "id": 100000008463392,
+      "asset_id": 100000008463392,
+      "source": "New York Times",
+      "published_date": "2022-07-27",
+      "updated": "2022-07-31 11:26:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Law and Legislation;Global Warming;Alternative and Renewable Energy;Federal Taxes (US);United States Economy;United States Politics and Government;Health Insurance and Managed Care;Drugs (Pharmaceuticals);Inflation (Economics);Inflation Reduction Act of 2022;Manchin, Joe III;Biden, Joseph R Jr;Senate;Democratic Party",
+      "column": null,
+      "byline": "By Emily Cochrane, Jim Tankersley and Lisa Friedman",
+      "type": "Article",
+      "title": "Manchin, in Reversal, Agrees to Quick Action on Climate and Tax Plan",
+      "abstract": "The West Virginia Democrat, a holdout on his party’s domestic agenda, said the package would reduce inflation, a concern he had cited in rejecting it just weeks ago.",
+      "des_facet": [
+        "Law and Legislation",
+        "Global Warming",
+        "Alternative and Renewable Energy",
+        "Federal Taxes (US)",
+        "United States Economy",
+        "United States Politics and Government",
+        "Health Insurance and Managed Care",
+        "Drugs (Pharmaceuticals)",
+        "Inflation (Economics)",
+        "Inflation Reduction Act of 2022"
+      ],
+      "org_facet": [
+        "Senate",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Manchin, Joe III",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Rather than risking more inflation with trillions in new spending, this bill will cut the inflation taxes Americans are paying,” Senator Joe Manchin III said in a statement on Wednesday.",
+          "copyright": "Pete Marovich for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/us/politics/27dc-cong-01/27dc-cong-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/us/politics/27dc-cong-01/merlin_210394923_57b6b84f-9a24-4cae-90ce-681e14143e50-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/us/politics/27dc-cong-01/merlin_210394923_57b6b84f-9a24-4cae-90ce-681e14143e50-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9e997e15-ac82-524a-9c19-7ae61bebc6a3",
+      "url": "https://www.nytimes.com/2022/07/27/health/vitamin-d-bone-fractures.html",
+      "id": 100000008462244,
+      "asset_id": 100000008462244,
+      "source": "New York Times",
+      "published_date": "2022-07-27",
+      "updated": "2022-07-28 15:48:47",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vitamin D;Osteoporosis;Bones;Bone Fractures;Preventive Medicine;Clinical Trials;Research;Cummings, Steven R;Rosen, Clifford J;New England Journal of Medicine",
+      "column": null,
+      "byline": "By Gina Kolata",
+      "type": "Article",
+      "title": "Study Finds Another Condition That Vitamin D Pills Do Not Help",
+      "abstract": "The vitamin pills do not prevent bone fractures in most people or protect against many other diseases, adding to questions about medical guidance many now take for granted.",
+      "des_facet": [
+        "Vitamin D",
+        "Osteoporosis",
+        "Bones",
+        "Bone Fractures",
+        "Preventive Medicine",
+        "Clinical Trials",
+        "Research"
+      ],
+      "org_facet": [
+        "New England Journal of Medicine"
+      ],
+      "per_facet": [
+        "Cummings, Steven R",
+        "Rosen, Clifford J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A study of nearly 26,000 people who were assigned to take vitamin D each day found the vitamin had no effect, even among people who had low vitamin D levels or osteoporosis.",
+          "copyright": "MShieldsPhotos/Alamy",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/science/27vitamind/27vitamind-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/science/27vitamind/27vitamind-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/27/science/27vitamind/27vitamind-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/32a6c474-eec1-536a-b808-424f9803f9a2",
+      "url": "https://www.nytimes.com/2022/07/28/science/holes-ocean-floor-mystery.html",
+      "id": 100000008462308,
+      "asset_id": 100000008462308,
+      "source": "New York Times",
+      "published_date": "2022-07-28",
+      "updated": "2022-08-01 21:52:34",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Oceans and Seas;Fish and Other Marine Life;Volcanoes;National Oceanic and Atmospheric Administration;Atlantic Ocean;Azores Islands",
+      "column": null,
+      "byline": "By Christine Chung",
+      "type": "Article",
+      "title": "There Are Holes on the Ocean Floor. Scientists Don’t Know Why.",
+      "abstract": "Similar openings on the sea floor were first spotted 18 years ago along the Mid-Atlantic Ridge. Their origins remain unknown. Scientists are asking the public for their thoughts.",
+      "des_facet": [
+        "Oceans and Seas",
+        "Fish and Other Marine Life",
+        "Volcanoes"
+      ],
+      "org_facet": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Atlantic Ocean",
+        "Azores Islands"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "While researchers explored the Mid-Atlantic Ridge on July 23, they noticed sets of holes in the sediment that they couldn’t explain. The laser points in the image are 10 centimeters. or about 4 inches, apart.",
+          "copyright": "National Oceanic and Atmospheric Administration",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/business/27xp-holes-01/27xp-holes-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/business/27xp-holes-01/27xp-holes-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/business/27xp-holes-01/27xp-holes-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/12174ca2-3f29-5693-ac23-4964eb4c2a3f",
+      "url": "https://www.nytimes.com/2022/08/01/arts/music/beyonce-lyrics-heated-changed.html",
+      "id": 100000008468949,
+      "asset_id": 100000008468949,
+      "source": "New York Times",
+      "published_date": "2022-08-01",
+      "updated": "2022-08-01 22:31:35",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Disabilities;Cerebral Palsy;Knowles, Beyonce",
+      "column": null,
+      "byline": "By Julia Jacobs",
+      "type": "Article",
+      "title": "Beyoncé Will Change Lyrics After Criticism Over ‘Ableist Language’",
+      "abstract": "The pop star’s decision to replace two words in her song “Heated” follows Lizzo’s removal of the same term, which has been used as a slur against disabled people, from her track “Grrrls.”",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Disabilities",
+        "Cerebral Palsy"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Knowles, Beyonce"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The word, not used intentionally in a harmful way, will be replaced,” a spokeswoman for Beyoncé said in an email.",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/01/arts/01beyonce-item/01beyonce-item-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/01/arts/01beyonce-item/01beyonce-item-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/01/arts/01beyonce-item/01beyonce-item-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7d7cd88c-be35-5e67-ab2b-46368e12a375",
+      "url": "https://www.nytimes.com/2022/07/28/sports/golf/donald-trump-liv-bedminster.html",
+      "id": 100000008464242,
+      "asset_id": 100000008464242,
+      "source": "New York Times",
+      "published_date": "2022-07-28",
+      "updated": "2022-07-29 13:41:07",
+      "section": "Sports",
+      "subsection": "Golf",
+      "nytdsection": "sports",
+      "adx_keywords": "Golf;Trump, Donald J;LIV Golf;Trump National Golf Club (Bedminster, NJ)",
+      "column": null,
+      "byline": "By Bill Pennington",
+      "type": "Article",
+      "title": "Watching Trump Play Golf: Decent Drives, Skipped Putts, Lots of Sweat",
+      "abstract": "The former president’s barge-ahead style and whim for scooping up shots too hard to make wouldn’t fly on the LIV Golf series, which his Bedminster club is hosting this weekend.",
+      "des_facet": [
+        "Golf"
+      ],
+      "org_facet": [
+        "LIV Golf",
+        "Trump National Golf Club (Bedminster, NJ)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump played in a pro-am tournament on the eve of a LIV Golf event at his club in Bedminster, N.J.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/sports/28golf-liv-trump1/28golf-liv-trump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/sports/28golf-liv-trump1/28golf-liv-trump1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/28/sports/28golf-liv-trump1/28golf-liv-trump1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1ae5c95f-00ed-5390-9622-fd3d87e3d1ed",
+      "url": "https://www.nytimes.com/2022/07/25/well/live/covid-ba5-precautions.html",
+      "id": 100000008452711,
+      "asset_id": 100000008452711,
+      "source": "New York Times",
+      "published_date": "2022-07-25",
+      "updated": "2022-08-02 14:45:45",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Omicron Variant;Coronavirus Risks and Safety Concerns;Masks;Vaccination and Immunization;Tests (Medical);Drugs (Pharmaceuticals);Disease Rates;Paxlovid (Drug);Content Type: Service",
+      "column": null,
+      "byline": "By Knvul Sheikh and Hannah Seo",
+      "type": "Article",
+      "title": "How to Live With Covid When You Are Tired of Living With Covid",
+      "abstract": "The BA.5 surge is a reminder that we need to take precautions to avoid illness, slow the relentless cycle of new variants and minimize the disruption to our daily lives.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Omicron Variant",
+        "Coronavirus Risks and Safety Concerns",
+        "Masks",
+        "Vaccination and Immunization",
+        "Tests (Medical)",
+        "Drugs (Pharmaceuticals)",
+        "Disease Rates",
+        "Paxlovid (Drug)",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle V. Agins/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/well/22WELL-BA5-PRECAUTIONS1/22WELL-BA5-PRECAUTIONS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/well/22WELL-BA5-PRECAUTIONS1/22WELL-BA5-PRECAUTIONS1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/well/22WELL-BA5-PRECAUTIONS1/22WELL-BA5-PRECAUTIONS1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d56b7d6a-0c27-582e-9ebc-b14bfb1b33ef",
+      "url": "https://www.nytimes.com/2022/07/31/sports/golf/liv-trump-bedminster.html",
+      "id": 100000008464652,
+      "asset_id": 100000008464652,
+      "source": "New York Times",
+      "published_date": "2022-07-31",
+      "updated": "2022-08-01 10:06:18",
+      "section": "Sports",
+      "subsection": "Golf",
+      "nytdsection": "sports",
+      "adx_keywords": "Golf;Fans (Persons);Sovereign Wealth Funds;DeChambeau, Bryson;Harding, Justin (1986- );Johnson, Dustin;Koepka, Brooks;Mickelson, Phil;LIV Golf;PGA Tour Inc;Bedminster (NJ)",
+      "column": null,
+      "byline": "By Bill Pennington and Doug Mills",
+      "type": "Article",
+      "title": "LIV Golfers, Paid Upfront, Giggle Their Way Around Trump Bedminster",
+      "abstract": "Henrik Stenson won the third event on the LIV Golf tour, where nine-figure signing bonuses for top players guaranteed a carefree vibe.",
+      "des_facet": [
+        "Golf",
+        "Fans (Persons)",
+        "Sovereign Wealth Funds"
+      ],
+      "org_facet": [
+        "LIV Golf",
+        "PGA Tour Inc"
+      ],
+      "per_facet": [
+        "DeChambeau, Bryson",
+        "Harding, Justin (1986- )",
+        "Johnson, Dustin",
+        "Koepka, Brooks",
+        "Mickelson, Phil"
+      ],
+      "geo_facet": [
+        "Bedminster (NJ)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brooks Koepka and his wife, Jena Sims, rode a golf cart just before the start of the LIV Golf event in Bedminster, N.J.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/sports/31golf-liv-koepka/31golf-liv-koepka-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/sports/31golf-liv-koepka/31golf-liv-koepka-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/sports/31golf-liv-koepka/31golf-liv-koepka-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/37a74aa1-0548-505f-af4a-fc4e626e66ad",
+      "url": "https://www.nytimes.com/2022/08/01/opinion/nancy-pelosi-taiwan-china.html",
+      "id": 100000008469640,
+      "asset_id": 100000008469640,
+      "source": "New York Times",
+      "published_date": "2022-08-01",
+      "updated": "2022-08-02 17:58:03",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States International Relations;International Relations;War and Armed Conflicts;Russian Invasion of Ukraine (2022);Pelosi, Nancy;Xi Jinping;Biden, Joseph R Jr;Putin, Vladimir V;House of Representatives;Taiwan;China;Russia;Ukraine",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Why Pelosi’s Visit to Taiwan Is Utterly Reckless",
+      "abstract": "The timing could not be worse. The Ukraine war is not over. ",
+      "des_facet": [
+        "United States International Relations",
+        "International Relations",
+        "War and Armed Conflicts",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Pelosi, Nancy",
+        "Xi Jinping",
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Taiwan",
+        "China",
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/opinion/01friedman1/01friedman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/opinion/01friedman1/01friedman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/opinion/01friedman1/01friedman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7cfb7463-1eb4-53ef-b0e3-998a386008f6",
+      "url": "https://www.nytimes.com/2022/08/02/us/alabama-captive-girl-dead-bodies.html",
+      "id": 100000008471745,
+      "asset_id": 100000008471745,
+      "source": "New York Times",
+      "published_date": "2022-08-02",
+      "updated": "2022-08-03 23:57:16",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Kidnapping and Hostages;Child Abuse and Neglect;Murders, Attempted Murders and Homicides;Pascual-Reyes, Jose Paulino;Dadeville (Ala)",
+      "column": null,
+      "byline": "By McKenna Oxenden and Michael Levenson",
+      "type": "Article",
+      "title": "Girl, 12, Escapes Captivity, Leading Alabama Authorities to Find 2 Bodies",
+      "abstract": "José Paulino Pascual-Reyes, 37, was charged with capital murder and first-degree kidnapping after the authorities said they found two decomposing bodies inside his house.",
+      "des_facet": [
+        "Kidnapping and Hostages",
+        "Child Abuse and Neglect",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Pascual-Reyes, Jose Paulino"
+      ],
+      "geo_facet": [
+        "Dadeville (Ala)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“She’s a hero,” Sheriff Jimmy Abbett of Tallapoosa County, Ala., said of a 12-year-old girl who had managed to escape from captivity. “She’s safe and we want to keep her that way.”",
+          "copyright": "WSFA",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/multimedia/02xp-captive/02xp-captive-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/multimedia/02xp-captive/02xp-captive-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/02/multimedia/02xp-captive/02xp-captive-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a7cb8761-128e-5669-9b00-78d6c32b76e3",
+      "url": "https://www.nytimes.com/2022/07/21/us/kentucky-bunker-civil-war.html",
+      "id": 100000008396967,
+      "asset_id": 100000008396967,
+      "source": "New York Times",
+      "published_date": "2022-07-21",
+      "updated": "2022-08-01 15:15:49",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;internal-sub-only;Politics and Government;Content Type: Personal Profile;Real Estate and Housing (Residential);Doomsday;audio-neutral-immersive;Morgan, C Wesley;Gilday, Shannon V;Kentucky;Richmond (Ky)",
+      "column": null,
+      "byline": "By Campbell Robertson",
+      "type": "Article",
+      "title": "He Built a Home to Survive a Civil War. Tragedy Found Him Anyway.",
+      "abstract": "C. Wesley Morgan once believed that the place he built, which included a 2,000-square-foot bunker, was the safest house in Kentucky.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "internal-sub-only",
+        "Politics and Government",
+        "Content Type: Personal Profile",
+        "Real Estate and Housing (Residential)",
+        "Doomsday",
+        "audio-neutral-immersive"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Morgan, C Wesley",
+        "Gilday, Shannon V"
+      ],
+      "geo_facet": [
+        "Kentucky",
+        "Richmond (Ky)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mansion belonging to C. Wesley Morgan, a former Kentucky state representative.",
+          "copyright": "Luke Sharrett for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/22/us/KENTUCKY-MURDER-1/KENTUCKY-MURDER-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/22/us/KENTUCKY-MURDER-1/KENTUCKY-MURDER-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/22/us/KENTUCKY-MURDER-1/KENTUCKY-MURDER-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/25c4adaf-8904-5da1-9884-1c7ad4091e6a",
+      "url": "https://www.nytimes.com/2022/07/28/us/politics/covid-booster-shots.html",
+      "id": 100000008456340,
+      "asset_id": 100000008456340,
+      "source": "New York Times",
+      "published_date": "2022-07-28",
+      "updated": "2022-07-29 17:17:07",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Drugs (Pharmaceuticals);Coronavirus Omicron Variant;United States Politics and Government;Food and Drug Administration;Centers for Disease Control and Prevention;Moderna Inc;Pfizer Inc",
+      "column": null,
+      "byline": "By Noah Weiland and Sharon LaFraniere",
+      "type": "Article",
+      "title": "Biden Administration Plans to Offer Updated Booster Shots in September",
+      "abstract": "With reformulated shots from Pfizer and Moderna on the horizon, the F.D.A. has decided that Americans under 50 should wait to receive second boosters.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus Omicron Variant",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Food and Drug Administration",
+        "Centers for Disease Control and Prevention",
+        "Moderna Inc",
+        "Pfizer Inc"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new versions are expected to perform better against the now-dominant Omicron subvariant BA.5, although the data available so far is still preliminary.",
+          "copyright": "Erika P. Rodriguez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/25/us/politics/25dc-boosters/merlin_207273057_2aff6852-76e7-497d-aa76-9974f6fecf16-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/25/us/politics/25dc-boosters/merlin_207273057_2aff6852-76e7-497d-aa76-9974f6fecf16-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/25/us/politics/25dc-boosters/merlin_207273057_2aff6852-76e7-497d-aa76-9974f6fecf16-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d71b9e5a-7156-51be-a09c-9fe9726df335",
+      "url": "https://www.nytimes.com/2022/07/30/us/politics/biden-covid-positive.html",
+      "id": 100000008467558,
+      "asset_id": 100000008467558,
+      "source": "New York Times",
+      "published_date": "2022-07-30",
+      "updated": "2022-07-31 17:11:59",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Coronavirus (2019-nCoV);Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Peter Baker and Noah Weiland",
+      "type": "Article",
+      "title": "Biden Tests Positive for Coronavirus Again in ‘Rebound’ Case",
+      "abstract": "The president tested positive on Saturday morning and will once again isolate, although his symptoms have not come back, the White House physician said.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden at the White House on Wednesday after ending his isolation. His latest positive test forced him to resume “strict isolation procedures,” as his doctor put it.",
+          "copyright": "Cheriss May for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30dc-biden-covid-relapse/30dc-biden-covid-relapse-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30dc-biden-covid-relapse/30dc-biden-covid-relapse-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/30/lens/30dc-biden-covid-relapse/30dc-biden-covid-relapse-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/326e6e95-b852-541e-9679-fa9a86657c63",
+      "url": "https://www.nytimes.com/2022/08/01/style/team-molly-rad-power-bikes-lawsuit.html",
+      "id": 100000008468734,
+      "asset_id": 100000008468734,
+      "source": "New York Times",
+      "published_date": "2022-08-01",
+      "updated": "2022-08-03 20:18:50",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Electric Bicycles, Motorcycles and Scooters;Suits and Litigation (Civil);Deaths (Fatalities);Steinsapir, Molly;Rad Power Bikes LLC",
+      "column": null,
+      "byline": "By Katherine Rosman",
+      "type": "Article",
+      "title": "‘Team Molly’ Parents Sue E-Bike Company Over Daughter’s Death",
+      "abstract": "An online community offered support for Molly Steinsapir, a 12-year-old who experienced brain trauma in an accident last year. Her mother and father have filed suit against Rad Power Bikes.",
+      "des_facet": [
+        "Electric Bicycles, Motorcycles and Scooters",
+        "Suits and Litigation (Civil)",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Rad Power Bikes LLC"
+      ],
+      "per_facet": [
+        "Steinsapir, Molly"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jonathan and Kaye Steinsapir in the room of their daughter, Molly, who died last year after an e-bike accident.",
+          "copyright": "Adam Perez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/08/04/fashion/01EBIKELAWSUIT1/01EBIKELAWSUIT1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/04/fashion/01EBIKELAWSUIT1/01EBIKELAWSUIT1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/08/04/fashion/01EBIKELAWSUIT1/01EBIKELAWSUIT1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/996b27b2-7b46-5503-9f99-6dadee2573fa",
+      "url": "https://www.nytimes.com/2022/07/31/sports/basketball/bill-russell-dead.html",
+      "id": 100000006791020,
+      "asset_id": 100000006791020,
+      "source": "New York Times",
+      "published_date": "2022-07-31",
+      "updated": "2022-08-01 12:20:21",
+      "section": "Sports",
+      "subsection": "N.B.A.",
+      "nytdsection": "sports",
+      "adx_keywords": "Basketball;Coaches and Managers;Black People;NBA Championship;Nineteen Hundred Sixties;Deaths (Obituaries);Auerbach, Red;Russell, William Felton (1934- );Boston Celtics",
+      "column": null,
+      "byline": "By Richard Goldstein",
+      "type": "Article",
+      "title": "Bill Russell, Who Transformed Pro Basketball, Dies at 88",
+      "abstract": "A Hall of Famer who led the Celtics to 11 championships, he was “the single most devastating force in the history of the game,” his coach Red Auerbach said.",
+      "des_facet": [
+        "Basketball",
+        "Coaches and Managers",
+        "Black People",
+        "NBA Championship",
+        "Nineteen Hundred Sixties",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "Boston Celtics"
+      ],
+      "per_facet": [
+        "Auerbach, Red",
+        "Russell, William Felton (1934- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bill Russell with his coach, Red Auerbach, in December 1964 after scoring his 10,000th career point in a game in Boston Garden. In a 1980 poll of basketball writers, he was voted the greatest player in N.B.A. history.",
+          "copyright": "Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/multimedia/31russell-1/31russell-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/multimedia/31russell-1/31russell-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/31/multimedia/31russell-1/31russell-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a9845797-1b67-5fb0-9a3d-d9ee02b421be",
+      "url": "https://www.nytimes.com/2022/08/02/nyregion/trump-letitia-james-deposition-lawsuit.html",
+      "id": 100000008422736,
+      "asset_id": 100000008422736,
+      "source": "New York Times",
+      "published_date": "2022-08-02",
+      "updated": "2022-08-03 16:58:00",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Frauds and Swindling;Appraisals and Valuation (Property);Tax Evasion;Suits and Litigation (Civil);James, Letitia;Trump, Donald J;Trump Organization;New York State",
+      "column": null,
+      "byline": "By Ben Protess, Jonah E. Bromwich and William K. Rashbaum",
+      "type": "Article",
+      "title": "Trump Faces Questions About His Net Worth in Interview He Tried to Avoid",
+      "abstract": "Former President Donald J. Trump has embraced the verbal sparring of legal depositions in the past, but now faces significant risk.",
+      "des_facet": [
+        "Frauds and Swindling",
+        "Appraisals and Valuation (Property)",
+        "Tax Evasion",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "James, Letitia",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump has been deposed many times in a variety of settings, but the stakes of his scheduled session with the New York attorney general’s office are uncommonly high.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/07/01/nyregion/00trump-james/00trump-james-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/01/nyregion/00trump-james/merlin_184403649_85ae2cc5-8fdd-437b-b9a5-1dde24ec826b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/07/01/nyregion/00trump-james/merlin_184403649_85ae2cc5-8fdd-437b-b9a5-1dde24ec826b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

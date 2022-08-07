@@ -21,17 +21,7 @@ struct AppCoordinator {
     }
     
     func start() {
-        
-        router.route(to: "", parameters: nil)
+        router.configureRoot()
     }
 }
 
-struct AppRouter: Route {
-    
-    weak var context: UINavigationController?
-    
-    func route(to routeID: String, parameters: Any?) {
-        guard let controller = DashboardController.loadController() else { return }
-        context?.pushViewController(controller, animated: true)
-    }
-}

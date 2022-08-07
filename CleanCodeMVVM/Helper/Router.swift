@@ -7,11 +7,20 @@
 
 import UIKit
 
-protocol Route {
+protocol Router {
     var context: UINavigationController? { get }
+    func configureRoot()
+}
+
+extension Router {
+    func configureRoot() {}
+}
+
+protocol ParentRouter: Router {
     func route(to routeID: String, parameters: Any?)
 }
 
-protocol Router: Route {
+protocol ChildRouter: Router {
     func back()
 }
+

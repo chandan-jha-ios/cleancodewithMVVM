@@ -19,7 +19,7 @@ final class DashboardViewModel {
     
     // MARK: Properties
     private let manager: DashboardManagerFetchable
-    private var router: Route?
+    private var router: ParentRouter?
     @Published var isLoading: Bool
     var response: DashboardResponse?
     var error: NetworkError?
@@ -30,7 +30,7 @@ final class DashboardViewModel {
     
     // MARK: Initializer
     init(manager: DashboardManagerFetchable = DashboardManager(),
-         router: Route? = nil,
+         router: ParentRouter? = nil,
          isLoading: Bool = false) {
         self.manager = manager
         self.router = router

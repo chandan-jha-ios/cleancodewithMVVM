@@ -32,10 +32,13 @@ final class DashboardController: BaseController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        viewModel = DashboardViewModel(router: DashboardRouter(context: navigationController))
         setupBinding()
         fetchNews()
         newsTableView .addSubview(self.refreshControl)
+    }
+    
+    func configure(viewModel: DashboardViewModel) {
+        self.viewModel = viewModel
     }
     
     class func loadController() -> DashboardController? {

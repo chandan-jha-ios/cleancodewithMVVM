@@ -23,7 +23,7 @@ final class DashboardViewModelTests: XCTestCase {
         viewModel = DashboardViewModel(manager: manager, router: router)
     }
     
-    func testNewsRequest() {
+    func testNewsRequest_Success() {
         initializeViewModel()
         viewModel.fetchNews { [weak self ] in
             XCTAssertNil(self?.viewModel.error)
@@ -39,7 +39,7 @@ final class DashboardViewModelTests: XCTestCase {
         }
     }
     
-    func testLiveNewsRequest() {
+    func testLiveNewsRequest_Success() {
         viewModel = DashboardViewModel()
         let expectation = XCTestExpectation(description: "live request")
         viewModel.fetchNews { [weak self ] in
@@ -57,7 +57,7 @@ final class DashboardViewModelTests: XCTestCase {
         wait(for: [expectation], timeout: 5)
     }
     
-    func testLiveFailureNewsRequest() {
+    func testLiveNewsRequest_Failure() {
         viewModel = DashboardViewModel()
         let expectation = XCTestExpectation(description: "live request")
         viewModel.fetchNews(service: MockService.news) { [weak self ] in
@@ -69,7 +69,7 @@ final class DashboardViewModelTests: XCTestCase {
         wait(for: [expectation], timeout: 5)
     }
     
-    func testFileLoadingFailureScenario() {
+    func testFileLoading_Failure() {
         initializeViewModel(fileName: "mock", isMock: false)
         viewModel.fetchNews { [weak self ] in
             XCTAssertNotNil(self?.viewModel.error)
@@ -79,7 +79,7 @@ final class DashboardViewModelTests: XCTestCase {
         }
     }
     
-    func testParsingFailureScenario() {
+    func testParsing_Failure() {
         initializeViewModel(fileName: "mock_invalid_response")
         viewModel.fetchNews { [weak self ] in
             XCTAssertNotNil(self?.viewModel.error)
@@ -89,7 +89,7 @@ final class DashboardViewModelTests: XCTestCase {
         }
     }
     
-    func testServiceRequestFailure() {
+    func testServiceRequest_Failure() {
         initializeViewModel(fileName: "mock_invalid_response")
         viewModel.fetchNews(service: MockService.news) { [weak self ] in
             XCTAssertNotNil(self?.viewModel.error)

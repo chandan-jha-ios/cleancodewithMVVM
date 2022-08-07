@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct DashboardRouter: Router {
+struct DashboardRouter: ParentRouter {
     
     weak var context: UINavigationController?
     
@@ -21,13 +21,10 @@ struct DashboardRouter: Router {
         case .newsDetails:
             let controller = NewsDetailsController.loadController()
             guard let news = parameters as? News else { return }
-            let viewModel = NewsDetailsViewModel(router: self, news: news)
+            let childRouter = NewsDetailsRouter(context: context)
+            let viewModel = NewsDetailsViewModel(router: childRouter, news: news)
             controller.configure(with: viewModel)
             context?.pushViewController(controller, animated: true)
         }
-    }
-    
-    func back() {
-        context?.popViewController(animated: true)
     }
 }

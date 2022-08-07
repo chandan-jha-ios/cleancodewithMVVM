@@ -24,6 +24,8 @@
 		5826128D289E9F7100BBD29E /* MockService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5826128C289E9F7100BBD29E /* MockService.swift */; };
 		58261290289EB9BD00BBD29E /* NewsDetailsViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5826128F289EB9BD00BBD29E /* NewsDetailsViewModelTests.swift */; };
 		58261292289ED5EB00BBD29E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 58261291289ED5EB00BBD29E /* README.md */; };
+		58261294289FCA5300BBD29E /* AppRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58261293289FCA5300BBD29E /* AppRouter.swift */; };
+		58261297289FCCF100BBD29E /* NewsDetailsRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58261296289FCCF100BBD29E /* NewsDetailsRouter.swift */; };
 		58A14C28289C0C6100538329 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A14C27289C0C6100538329 /* AppDelegate.swift */; };
 		58A14C2A289C0C6100538329 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A14C29289C0C6100538329 /* SceneDelegate.swift */; };
 		58A14C2C289C0C6100538329 /* DashboardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A14C2B289C0C6100538329 /* DashboardController.swift */; };
@@ -86,6 +88,8 @@
 		5826128C289E9F7100BBD29E /* MockService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockService.swift; sourceTree = "<group>"; };
 		5826128F289EB9BD00BBD29E /* NewsDetailsViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailsViewModelTests.swift; sourceTree = "<group>"; };
 		58261291289ED5EB00BBD29E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		58261293289FCA5300BBD29E /* AppRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppRouter.swift; sourceTree = "<group>"; };
+		58261296289FCCF100BBD29E /* NewsDetailsRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailsRouter.swift; sourceTree = "<group>"; };
 		58A14C24289C0C6100538329 /* CleanCodeMVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CleanCodeMVVM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58A14C27289C0C6100538329 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58A14C29289C0C6100538329 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -164,6 +168,7 @@
 		58261271289E4F7A00BBD29E /* NewsDetails */ = {
 			isa = PBXGroup;
 			children = (
+				58261295289FCCE400BBD29E /* Router */,
 				58261285289E87EF00BBD29E /* ViewModel */,
 				58261284289E87E800BBD29E /* View */,
 			);
@@ -184,6 +189,7 @@
 				58A14C27289C0C6100538329 /* AppDelegate.swift */,
 				58A14C29289C0C6100538329 /* SceneDelegate.swift */,
 				58261281289E81C200BBD29E /* AppCoordinator.swift */,
+				58261293289FCA5300BBD29E /* AppRouter.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -211,6 +217,14 @@
 				5826128F289EB9BD00BBD29E /* NewsDetailsViewModelTests.swift */,
 			);
 			path = NewsDetails;
+			sourceTree = "<group>";
+		};
+		58261295289FCCE400BBD29E /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				58261296289FCCF100BBD29E /* NewsDetailsRouter.swift */,
+			);
+			path = Router;
 			sourceTree = "<group>";
 		};
 		58A14C1B289C0C6100538329 = {
@@ -569,6 +583,7 @@
 				58A14C69289C25F400538329 /* MetaData.swift in Sources */,
 				58A14C2C289C0C6100538329 /* DashboardController.swift in Sources */,
 				58A14C28289C0C6100538329 /* AppDelegate.swift in Sources */,
+				58261294289FCA5300BBD29E /* AppRouter.swift in Sources */,
 				58A14C65289C23F600538329 /* News.swift in Sources */,
 				58A14C78289CC64100538329 /* Fetchable.swift in Sources */,
 				58A14C67289C25E000538329 /* Media.swift in Sources */,
@@ -578,6 +593,7 @@
 				58A14C73289CC57500538329 /* Extension.swift in Sources */,
 				58A14C6D289C30CD00538329 /* NetworkEngine.swift in Sources */,
 				58A14C2A289C0C6100538329 /* SceneDelegate.swift in Sources */,
+				58261297289FCCF100BBD29E /* NewsDetailsRouter.swift in Sources */,
 				58261267289E2BA500BBD29E /* NetworkResult.swift in Sources */,
 				58A14C5B289C190100538329 /* DashboardViewModel.swift in Sources */,
 				58A14C6F289C407B00538329 /* NetworkAdaptor.swift in Sources */,

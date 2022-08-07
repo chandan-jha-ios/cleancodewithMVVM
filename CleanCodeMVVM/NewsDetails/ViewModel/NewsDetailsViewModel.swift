@@ -15,11 +15,11 @@ import Combine
 final class NewsDetailsViewModel {
     
     // MARK: Properties
-    private var router: Router?
+    private var router: ChildRouter?
     private let news: News
 
     // MARK: Initializer
-    init(router: Router? = nil,
+    init(router: ChildRouter? = nil,
          news: News) {
         self.router = router
         self.news = news

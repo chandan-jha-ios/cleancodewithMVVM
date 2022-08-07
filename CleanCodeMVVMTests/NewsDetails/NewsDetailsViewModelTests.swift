@@ -9,22 +9,29 @@ import XCTest
 @testable import CleanCodeMVVM
 
 final class NewsDetailsViewModelTests: XCTestCase {
+    var viewModel: DashboardViewModel!
+    var router: ParentRouter!
     
-    func testDetailsViewModel() {
-        let parser = JSONParser(fileName: "mock_dashboard")
+    private func initializeViewModel(fileName: String = "mock_dashboard",
+                                     isMock: Bool = true) {
+        let parser = JSONParser(fileName: fileName)
         let adaptor = MockNetworkManager<DashboardResponse>(parser: parser,
-                                                            isMock: true)
+                                                            isMock: isMock)
         let repository = DashboardRepository(manager: adaptor)
         let manager = DashboardManager(repository: repository)
-        let router = DashboardRouter(context: UINavigationController())
-        let viewModel = DashboardViewModel(manager: manager, router: router)
-
+        router = DashboardRouter(context: UINavigationController())
+        viewModel = DashboardViewModel(manager: manager, router: router)
+    }
+    
+    func testDetailsViewModel_Success() {
+        initializeViewModel()
         viewModel.fetchNews {
-            XCTAssertNil(viewModel.error)
-            XCTAssertNotNil(viewModel.response)
+            XCTAssertNil(self.viewModel.error)
+            XCTAssertNotNil(self.viewModel.response)
             do {
-                let news = try XCTUnwrap(viewModel.news(at: 4))
-                let detailsViewModel = NewsDetailsViewModel(router: router, news: news)
+                let news = try XCTUnwrap(self.viewModel.news(at: 4))
+                let childRouter = NewsDetailsRouter(context: self.router.context)
+                let detailsViewModel = NewsDetailsViewModel(router: childRouter, news: news)
                 XCTAssertNotNil(detailsViewModel.title)
                 XCTAssertNotNil(detailsViewModel.abstract)
                 XCTAssertNotNil(detailsViewModel.media)

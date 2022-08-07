@@ -12,7 +12,7 @@ struct Constant {
         "https://api.nytimes.com"
     }
     static var apiKey: String {
-        "2GXNO7VVpf3m0lwXt0QVNfJQNYHI41jF"
+        "UPDATE KEY HERE"
     }
 }
 

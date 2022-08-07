@@ -38,7 +38,8 @@ final class DashboardViewModel {
     }
 
     // MARK: Functions
-    func fetchNews(service: Requestable = DashboardService.news, completion: Completion? = nil) {
+    func fetchNews(service: Requestable = DashboardService.news,
+                   completion: Completion? = nil) {
         manager.fetchNews(request: service) { [weak self] (response, error) in
             /// To track network operation and show loader in view
             if let error = error {
@@ -61,6 +62,6 @@ extension DashboardViewModel {
     
     /// Show news details page
     func navigatetoDetails(for index: Int) {
-        router?.route(to: "details", parameters: news(at: index))
+        router?.route(to: DashboardRoute.newsDetails.rawValue, parameters: news(at: index))
     }
 }

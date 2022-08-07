@@ -17,7 +17,7 @@ extension Router {
 }
 
 protocol ParentRouter: Router {
-    func route(to routeID: String, parameters: Any?)
+    func route(to routeId: String, parameters: Any?)
 }
 
 protocol ChildRouter: Router {

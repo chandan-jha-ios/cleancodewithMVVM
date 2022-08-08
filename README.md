@@ -8,13 +8,17 @@ _Below is an example of how you can access and run this MVVM demo project_
    ```
    git clone https://github.com/chandan-jha-ios/cleancodewithMVVM.git
    ```
-3. Install podfile dependency
+3. Do checkout on develop branch
+   ```
+   git checkout develop
+   ```
+4. Install podfile dependency
    ```
    pod install
    ```
-4. Enter your apiKey in `Constant.swift`
+5. Enter your apiKey in `Constant.swift`
    ```
-   const apiKey = 'ENTER YOUR KEY';
+   apiKey = 'ENTER YOUR KEY';
    ```
 ### MVVM 
 This project is developed in MVVM architecture with Router and Repository pattern
